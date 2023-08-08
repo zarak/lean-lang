@@ -2,7 +2,7 @@
 
 ## Books
 
-[Functional Programming in Lean](https://leanprover.github.io/functional_programming_in_lean/) 2023  
+[Functional Programming in Lean](https://leanprover.github.io/functional_programming_in_lean/) Lean 4, 2023  
 [Theorem Proving in Lean 4](https://leanprover.github.io/theorem_proving_in_lean4/) Lean 4, 2023  
 [How to Prove it with Lean](https://djvelleman.github.io/HTPIwL/#preface) Lean  4, 2023  
 [The mechanics of proof](https://hrmacbeth.github.io/math2001/) 2023  
