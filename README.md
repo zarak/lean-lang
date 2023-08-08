@@ -11,3 +11,7 @@
 [Lean Manual](https://leanprover.github.io/lean4/doc/)
 [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/) 2020
 [Logic and Proof](http://leanprover.github.io/logic_and_proof/) 2017
+
+TODO:
+- [ ] How to Prove It with Lean
+- [ ] Functional Programming in Lean
